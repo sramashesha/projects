@@ -1,0 +1,65 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background-color:white;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+    background-color:white;
+    background-image: url('green_gradient.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: "Barrio", system-ui;
+    color: white;
+    font-size: 2em;
+
+}
+
+.barrio-regular {
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.profile-pic{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 30%;
+}
+
+section{
+    margin: 20px;
+    padding: 20px;
+    background-color:seashell;
+    border-radius: 10px;
+}
+
+.project{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+
+}
+
+.bio{
+    text-align: center;
+    margin: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+footer {
+    background-image: url('green_gradient.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 10px;
+}
